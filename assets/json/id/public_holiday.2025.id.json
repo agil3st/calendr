@@ -1,0 +1,21 @@
+{
+    "country_details": {
+        "country": "Indonesia",
+        "country_code": "id",
+        "year": 2025
+    },
+    "public_holiday": {
+        "january": {
+            "1": "Hari Ini",
+            "12": "Hari Itu"
+        },
+        "february": {
+            "3": "Hari hari",
+            "4": "Hari baru"
+        },
+        "march": {
+            "5": "Peringatan",
+            "16": "Peringitin"
+        }
+    }
+}
