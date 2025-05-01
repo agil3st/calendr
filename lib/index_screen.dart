@@ -16,7 +16,7 @@ class IndexScreen extends StatelessWidget {
             Text('Welcome'),
             FilledButton(
               onPressed: () {
-                context.go('/2015');
+                context.go('/${DateTime.now().year}');
               },
               child: Text('Open Calendar'),
             ),
