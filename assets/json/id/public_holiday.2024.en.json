@@ -1,0 +1,205 @@
+{
+  "country_details": {
+    "country": "Indonesia",
+    "country_code": "ID",
+    "year": 2024
+  },
+  "events": [
+    {
+      "month": 1,
+      "day": 1,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "New Year's Day"
+    },
+    {
+      "month": 2,
+      "day": 8,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Isra Mi'raj"
+    },
+    {
+      "month": 2,
+      "day": 9,
+      "is_day_off": true,
+      "level": "optional",
+      "title": "Chinese New Year Joint Holiday"
+    },
+    {
+      "month": 2,
+      "day": 10,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Chinese New Year 2575 Kongzili"
+    },
+    {
+      "month": 2,
+      "day": 14,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Presidential Election Day"
+    },
+    {
+      "month": 3,
+      "day": 11,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Nyepi Day (Saka New Year 1946)"
+    },
+    {
+      "month": 3,
+      "day": 12,
+      "is_day_off": true,
+      "level": "optional",
+      "title": "Nyepi Joint Holiday"
+    },
+    {
+      "month": 3,
+      "day": 29,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Good Friday"
+    },
+    {
+      "month": 3,
+      "day": 31,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Easter Sunday"
+    },
+    {
+      "month": 4,
+      "day": 8,
+      "is_day_off": true,
+      "level": "optional",
+      "title": "Eid al-Fitr Joint Holiday"
+    },
+    {
+      "month": 4,
+      "day": 9,
+      "is_day_off": true,
+      "level": "optional",
+      "title": "Eid al-Fitr Joint Holiday"
+    },
+    {
+      "month": 4,
+      "day": 10,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Eid al-Fitr 1445 H"
+    },
+    {
+      "month": 4,
+      "day": 11,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Eid al-Fitr 1445 H"
+    },
+    {
+      "month": 4,
+      "day": 12,
+      "is_day_off": true,
+      "level": "optional",
+      "title": "Eid al-Fitr Joint Holiday"
+    },
+    {
+      "month": 4,
+      "day": 15,
+      "is_day_off": true,
+      "level": "optional",
+      "title": "Eid al-Fitr Joint Holiday"
+    },
+    {
+      "month": 5,
+      "day": 1,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Labour Day"
+    },
+    {
+      "month": 5,
+      "day": 9,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Ascension Day of Jesus Christ"
+    },
+    {
+      "month": 5,
+      "day": 10,
+      "is_day_off": true,
+      "level": "optional",
+      "title": "Ascension Day Joint Holiday"
+    },
+    {
+      "month": 5,
+      "day": 23,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Vesak Day 2568 BE"
+    },
+    {
+      "month": 5,
+      "day": 24,
+      "is_day_off": true,
+      "level": "optional",
+      "title": "Vesak Day Joint Holiday"
+    },
+    {
+      "month": 6,
+      "day": 1,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Pancasila Day"
+    },
+    {
+      "month": 6,
+      "day": 17,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Eid al-Adha 1445 H"
+    },
+    {
+      "month": 6,
+      "day": 18,
+      "is_day_off": true,
+      "level": "optional",
+      "title": "Eid al-Adha Joint Holiday"
+    },
+    {
+      "month": 7,
+      "day": 7,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Islamic New Year 1446 H"
+    },
+    {
+      "month": 8,
+      "day": 17,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Independence Day of the Republic of Indonesia"
+    },
+    {
+      "month": 9,
+      "day": 16,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Prophet Muhammad's Birthday"
+    },
+    {
+      "month": 12,
+      "day": 25,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Christmas Day"
+    },
+    {
+      "month": 12,
+      "day": 26,
+      "is_day_off": true,
+      "level": "optional",
+      "title": "Christmas Joint Holiday"
+    }
+  ]
+}

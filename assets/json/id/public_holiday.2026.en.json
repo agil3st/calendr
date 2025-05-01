@@ -1,0 +1,128 @@
+{
+  "country_details": {
+    "country": "Indonesia",
+    "country_code": "ID",
+    "year": 2026
+  },
+  "events": [
+    {
+      "month": 1,
+      "day": 1,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "New Year's Day"
+    },
+    {
+      "month": 1,
+      "day": 16,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Ascension of the Prophet Muhammad"
+    },
+    {
+      "month": 2,
+      "day": 17,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Chinese New Year 2577"
+    },
+    {
+      "month": 3,
+      "day": 19,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Nyepi (Balinese New Year)"
+    },
+    {
+      "month": 3,
+      "day": 20,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Eid al-Fitr 1447 H"
+    },
+    {
+      "month": 3,
+      "day": 21,
+      "is_day_off": true,
+      "level": "optional",
+      "title": "Eid al-Fitr Joint Holiday"
+    },
+    {
+      "month": 4,
+      "day": 3,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Good Friday"
+    },
+    {
+      "month": 4,
+      "day": 5,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Easter Sunday"
+    },
+    {
+      "month": 5,
+      "day": 1,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "International Labor Day"
+    },
+    {
+      "month": 5,
+      "day": 14,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Ascension of Jesus Christ"
+    },
+    {
+      "month": 5,
+      "day": 27,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Eid al-Adha 1447 H"
+    },
+    {
+      "month": 5,
+      "day": 31,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Vesak Day 2570 BE"
+    },
+    {
+      "month": 6,
+      "day": 1,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Pancasila Day"
+    },
+    {
+      "month": 6,
+      "day": 17,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Islamic New Year 1448 H"
+    },
+    {
+      "month": 8,
+      "day": 17,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Independence Day of Indonesia"
+    },
+    {
+      "month": 8,
+      "day": 25,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Prophet Muhammad’s Birthday"
+    },
+    {
+      "month": 12,
+      "day": 25,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Christmas Day"
+    }
+  ]
+}

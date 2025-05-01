@@ -1,0 +1,128 @@
+{
+  "country_details": {
+    "country": "Indonesia",
+    "country_code": "ID",
+    "year": 2026
+  },
+  "events": [
+    {
+      "month": 1,
+      "day": 1,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Tahun Baru Masehi"
+    },
+    {
+      "month": 1,
+      "day": 16,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Isra Mikraj Nabi Muhammad SAW"
+    },
+    {
+      "month": 2,
+      "day": 17,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Tahun Baru Imlek 2577 Kongzili"
+    },
+    {
+      "month": 3,
+      "day": 19,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Hari Raya Nyepi Tahun Baru Saka 1948"
+    },
+    {
+      "month": 3,
+      "day": 20,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Hari Raya Idul Fitri 1447 H"
+    },
+    {
+      "month": 3,
+      "day": 21,
+      "is_day_off": true,
+      "level": "optional",
+      "title": "Cuti Bersama Idul Fitri"
+    },
+    {
+      "month": 4,
+      "day": 3,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Wafat Yesus Kristus"
+    },
+    {
+      "month": 4,
+      "day": 5,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Hari Paskah"
+    },
+    {
+      "month": 5,
+      "day": 1,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Hari Buruh Internasional"
+    },
+    {
+      "month": 5,
+      "day": 14,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Kenaikan Yesus Kristus"
+    },
+    {
+      "month": 5,
+      "day": 27,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Hari Raya Idul Adha 1447 H"
+    },
+    {
+      "month": 5,
+      "day": 31,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Hari Raya Waisak 2570 BE"
+    },
+    {
+      "month": 6,
+      "day": 1,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Hari Lahir Pancasila"
+    },
+    {
+      "month": 6,
+      "day": 17,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Tahun Baru Islam 1448 H"
+    },
+    {
+      "month": 8,
+      "day": 17,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Hari Kemerdekaan Republik Indonesia"
+    },
+    {
+      "month": 8,
+      "day": 25,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Maulid Nabi Muhammad SAW"
+    },
+    {
+      "month": 12,
+      "day": 25,
+      "is_day_off": true,
+      "level": "mandatory",
+      "title": "Hari Raya Natal"
+    }
+  ]
+}

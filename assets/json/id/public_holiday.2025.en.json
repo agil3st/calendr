@@ -10,189 +10,189 @@
         "day": 1,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Tahun Baru Masehi"
+        "title": "New Year's Day"
       },
       {
         "month": 1,
         "day": 27,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Isra Mikraj Nabi Muhammad SAW"
+        "title": "Isra Mi'raj"
       },
       {
         "month": 1,
         "day": 28,
         "is_day_off": true,
         "level": "optional",
-        "title": "Cuti Bersama Imlek"
+        "title": "Chinese New Year Holiday"
       },
       {
         "month": 1,
         "day": 29,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Tahun Baru Imlek 2576 Kongzili"
+        "title": "Chinese New Year"
       },
       {
         "month": 3,
         "day": 28,
         "is_day_off": true,
         "level": "optional",
-        "title": "Cuti Bersama Nyepi"
+        "title": "Nyepi Holiday"
       },
       {
         "month": 3,
         "day": 29,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Hari Suci Nyepi Tahun Baru Saka 1947"
+        "title": "Nyepi (Day of Silence)"
       },
       {
         "month": 3,
         "day": 31,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Hari Raya Idul Fitri 1446 H"
+        "title": "Eid al-Fitr"
       },
       {
         "month": 4,
         "day": 1,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Hari Raya Idul Fitri 1446 H"
+        "title": "Eid al-Fitr Holiday"
       },
       {
         "month": 4,
         "day": 2,
         "is_day_off": true,
         "level": "optional",
-        "title": "Cuti Bersama Idul Fitri"
+        "title": "Eid al-Fitr Joint Holiday"
       },
       {
         "month": 4,
         "day": 3,
         "is_day_off": true,
         "level": "optional",
-        "title": "Cuti Bersama Idul Fitri"
+        "title": "Eid al-Fitr Joint Holiday"
       },
       {
         "month": 4,
         "day": 4,
         "is_day_off": true,
         "level": "optional",
-        "title": "Cuti Bersama Idul Fitri"
+        "title": "Eid al-Fitr Joint Holiday"
       },
       {
         "month": 4,
         "day": 7,
         "is_day_off": true,
         "level": "optional",
-        "title": "Cuti Bersama Idul Fitri"
+        "title": "Eid al-Fitr Joint Holiday"
       },
       {
         "month": 4,
         "day": 18,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Wafat Yesus Kristus"
+        "title": "Good Friday"
       },
       {
         "month": 4,
         "day": 20,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Hari Paskah"
+        "title": "Easter Sunday"
       },
       {
         "month": 5,
         "day": 1,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Hari Buruh Internasional"
+        "title": "Labour Day"
       },
       {
         "month": 5,
         "day": 12,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Hari Raya Waisak 2569 BE"
+        "title": "Waisak Day"
       },
       {
         "month": 5,
         "day": 13,
         "is_day_off": true,
         "level": "optional",
-        "title": "Cuti Bersama Waisak"
+        "title": "Waisak Day Holiday"
       },
       {
         "month": 5,
         "day": 29,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Kenaikan Yesus Kristus"
+        "title": "Ascension Day of Jesus Christ"
       },
       {
         "month": 5,
         "day": 30,
         "is_day_off": true,
         "level": "optional",
-        "title": "Cuti Bersama Kenaikan Yesus Kristus"
+        "title": "Joint Holiday after Ascension Day"
       },
       {
         "month": 6,
         "day": 1,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Hari Lahir Pancasila"
+        "title": "Pancasila Day"
       },
       {
         "month": 6,
         "day": 6,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Hari Raya Idul Adha 1446 H"
+        "title": "Idul Adha"
       },
       {
         "month": 6,
         "day": 9,
         "is_day_off": true,
         "level": "optional",
-        "title": "Cuti Bersama Idul Adha"
+        "title": "Joint Holiday for Idul Adha"
       },
       {
         "month": 6,
         "day": 27,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Tahun Baru Islam 1447 H"
+        "title": "Islamic New Year"
       },
       {
         "month": 8,
         "day": 17,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Hari Kemerdekaan Republik Indonesia"
+        "title": "Independence Day"
       },
       {
         "month": 9,
         "day": 5,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Maulid Nabi Muhammad SAW"
+        "title": "Maulid Nabi Muhammad"
       },
       {
         "month": 12,
         "day": 25,
         "is_day_off": true,
         "level": "mandatory",
-        "title": "Hari Raya Natal"
+        "title": "Christmas Day"
       },
       {
         "month": 12,
         "day": 26,
         "is_day_off": true,
         "level": "optional",
-        "title": "Cuti Bersama Natal"
+        "title": "Christmas Holiday"
       }
     ]
   }
