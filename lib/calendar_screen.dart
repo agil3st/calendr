@@ -1,5 +1,3 @@
-import 'dart:ui' as html;
-
 import 'package:calendr/components/calendar_month_view.dart';
 import 'package:calendr/model/calendar_events.dart';
 import 'package:calendr/services/json_reader.dart';
