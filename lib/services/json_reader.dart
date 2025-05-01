@@ -2,6 +2,7 @@ import 'dart:convert';
 
 import 'package:calendr/model/calendar_events.dart';
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
 class JsonReader {
@@ -11,7 +12,10 @@ class JsonReader {
     String lang = 'en',
   }) async {
     try {
-      final String jsonFile = 'json/$country/public_holiday.$year.$lang.json';
+      String jsonFile = 'json/$country/public_holiday.$year.$lang.json';
+      if (kReleaseMode) {
+        jsonFile = '/assets/$jsonFile';
+      }
       debugPrint('loading: $jsonFile');
       final String response = await rootBundle.loadString(jsonFile);
       final Map<String, dynamic>? data = await json.decode(response);
